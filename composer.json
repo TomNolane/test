@@ -1,0 +1,47 @@
+{
+    "name": "dominus77/yii2-advanced-start",
+    "description": "Yii 2 Advanced start template on Yii2",
+    "keywords": ["Dominus77", "yii2", "framework", "advanced", "start project template"],
+    "homepage": "http://dominus77.github.io/yii2-advanced-start",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/Dominus77/yii2-advanced-start"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.6",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "yiisoft/yii2-swiftmailer": "~2.0.0",
+        "yiisoft/yii2-imagine": "^2.0",
+        "yii2tech/ar-softdelete": "~1.0",
+        "almasaeed2010/adminlte": "^2.4",
+        "fortawesome/font-awesome": "^4.6",
+        "driftyco/ionicons": "^2.0",
+        "dominus77/yii2-sweetalert2-widget": "~1.3",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.0.0",
+        "yiisoft/yii2-gii": "~2.0.0",
+        "yiisoft/yii2-faker": "~2.0.0",
+        "bower-asset/html5shiv": "*",
+        "bower-asset/respond": "*",
+
+        "codeception/base": "^2.2.3",
+        "codeception/verify": "~0.3.1"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+ 	],
+    "scripts": {
+      "post-install-cmd": "php init --env=Development --overwrite=n"
+    }
+}
