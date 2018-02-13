@@ -17,6 +17,7 @@ class DefaultController extends Controller
      * @inheritdoc
      * @return array
      */
+
     public function actions()
     {
         return [
@@ -38,7 +39,10 @@ class DefaultController extends Controller
      */
     public function actionIndex()
     {
-        return $this->render('index');
+        if(strpos($_SERVER['SERVER_NAME'], 'tovarka') !== false)
+            return $this->render('index');
+        else
+            return $this->render('index3');
     }
 
     /**

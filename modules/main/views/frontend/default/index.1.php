@@ -1,9 +1,3 @@
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script>
-
-</script>
-
 <!DOCTYPE html>
 <html xmlns="//www.w3.org/1999/xhtml">
 <head>
@@ -12,12 +6,12 @@
 <meta name="viewport" content="width=device-width">
 
 <title> Блог Владимира Филяева. Как я накачал тело за 1 месяц</title>
-
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <link media="all" href="/assets/my/index.css" type="text/css" rel="stylesheet">
 </head>
 <body cz-shortcut-listen="true">
 	<div class="container">
-		 <a href="http://name" target="_blank"  > <div class="header"></div>
+		 <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  > <div class="header"></div>
 			 </a> 
 		<div class="left-column">
 			<h1>
@@ -43,7 +37,7 @@
 			<p>
 				Однажды в тренажерку, где я занимался, пришел худощавый парень, который <b>без особого труда набрал 10 кг мышц за 1,5 месяца</b>! При этом он совершенно не прикладывал усилий - всего каких-то 2 часа ненапряжных тренеровок. Все тренера только удивлялись такому стремительному набору веса у такого мелкого пацана, говорили мол "не может такой тощий столько веса накачать".</p> 
 				<p>
-				Я решил поговорить с парнем, в чем же его секрет. Оказывается, он каждую тренировку цеплял на себя <b>миостимулятор <a href="http://name" target="_blank"  >EMS Trainer</a></b> и стал замечать, что мышцы начали интенсивно расти! И <b>через 2 месяца он обрел желаемую форму</b>!!! 
+				Я решил поговорить с парнем, в чем же его секрет. Оказывается, он каждую тренировку цеплял на себя <b>миостимулятор <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a></b> и стал замечать, что мышцы начали интенсивно расти! И <b>через 2 месяца он обрел желаемую форму</b>!!! 
 			</p>
 			
 			<img style="float: right; margin: 0px 0px 10px 10px; max-width: 250px;" src="/assets/my/biceps.jpg">
@@ -60,7 +54,7 @@
 				В общем этот парень порекомендовал использовать именно <b>EMS Trainer, регулярно</b>. По его словам, миостимулятор только этой фирмы реально работает - все остальное подделка.
 			</p>
 			<p>
-				Парень предоставил мне ссылку на <b>официальный сайт поставщика</b>. Потом я мигом побежал заказывать EMS Trainer. Заказывал <b><a href="http://name" target="_blank"   style="cursor: pointer;" class="yelpay-target">отсюда</a></b>. 
+				Парень предоставил мне ссылку на <b>официальный сайт поставщика</b>. Потом я мигом побежал заказывать EMS Trainer. Заказывал <b><a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="cursor: pointer;" class="yelpay-target">отсюда</a></b>. 
 			</p>
 			<p>
 				В общем заказ сделал, посылка пришла через пару дней по почте наложенным платежом. Все безопасно.
@@ -72,18 +66,18 @@
 				Распечатал коробку, прочел инструкцию, надел. Ощущения необычные. Сделал фото своего торса ДО. Если честно, фоткался в майке, ибо было стыдно показывать свое тело. 
 			</p>
 			<p>
-				В общем использовал <b><a href="http://name" target="_blank"  >EMS Trainer</a></b> около месяца и сделал фото ПОСЛЕ. Честно говоря, я чуть не обомлел!!! <b>Я расширился почти в 2 раза</b>! Я стал рельефен и огромен! За месяц! БЕЗ ОСОБЫХ УСИЛИЙ! Вы можете в это поверить??? Я реально и по сей день нахожусь в шоке и <b>не могу нарадоваться</b> своему новому телу!!!!!
+				В общем использовал <b><a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a></b> около месяца и сделал фото ПОСЛЕ. Честно говоря, я чуть не обомлел!!! <b>Я расширился почти в 2 раза</b>! Я стал рельефен и огромен! За месяц! БЕЗ ОСОБЫХ УСИЛИЙ! Вы можете в это поверить??? Я реально и по сей день нахожусь в шоке и <b>не могу нарадоваться</b> своему новому телу!!!!!
 			</p>
 			<img style="width: 100%; margin-bottom: 5px;" src="/assets/my/do_posle.jpg">
 			<p>
 				Вот так вот бывает. Сроду бы не подумал, что какой-то недорогой миостимулятор способен так влиять на телосложение. Цена на EMS Trainer по сути равна 4 билетам в кино. Решайте сами - много это или нет. Не экономьте на внешности! Внешность - это самое выгодное вложение!
 			</p>
 			<p>
-				В общем мужики, всем советую опробовать <b><a href="http://name" target="_blank"   style="cursor: pointer;" class="yelpay-target">EMS Trainer</a></b>! Если кто-то уже пользовался им - пишите ваши отзывы.
+				В общем мужики, всем советую опробовать <b><a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="cursor: pointer;" class="yelpay-target">EMS Trainer</a></b>! Если кто-то уже пользовался им - пишите ваши отзывы.
 			</p>
 			<br>
 			<p style="text-align: center; font-size: 20px;">
-				<a href="http://name" target="_blank"   class="button" style="color: rgb(11, 113, 241);">Заказать EMS Trainer</a>
+				<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   class="button" style="color: rgb(11, 113, 241);">Заказать EMS Trainer</a>
 			</p>
 			<br>
 			<div style="text-align: center;">
@@ -99,10 +93,10 @@
 						Александр Зеленин
 					</div>
 					<div class="vk-comment-text">
-						Ну Вов ты отжег)) не ожидал такого поста)) по теме - я уже 2 месяца наверное этот миостимулятор ношу. Доволен как слон. Мышцы растут, а жир сгорает! Заказывал <a href="http://name" target="_blank"  >на том же сайте</a>, что и ты.
+						Ну Вов ты отжег)) не ожидал такого поста)) по теме - я уже 2 месяца наверное этот миостимулятор ношу. Доволен как слон. Мышцы растут, а жир сгорает! Заказывал <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >на том же сайте</a>, что и ты.
 					</div>
 					<div class="vk-comment-date">
-						12 апреля 2017 19:44 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+						12 апреля 2017 19:44 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 					</div>
 					
 				</div>
@@ -117,7 +111,7 @@
 						Благодарю Владимир, вчера забрал посылку с почты, всё хорошо. Уже пользуюсь! Посмотрим на результат))))
 					</div>
 					<div class="vk-comment-date">
-						12 апреля 2017 21:38 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+						12 апреля 2017 21:38 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 					</div>
 
 				</div>
@@ -132,7 +126,7 @@
 						Брат в Америке живет, так вот говорит что там ОЧЕНЬ популярен этот миостимулятор... Все в восторге вроде как...
 					</div>
 					<div class="vk-comment-date">
-						12 апреля 2017 23:50 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+						12 апреля 2017 23:50 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 					</div>
 					
 				</div>
@@ -144,10 +138,10 @@
 						Ольга Попова
 					</div>
 					<div class="vk-comment-text">
-						Владимир, здравствуй! Впечатляет! Молодец! Сейчас тоже закажу мужу <a href="http://name" target="_blank"  >EMS Trainer</a>), Хочет себе торс как у греческих богов, видите ли)))
+						Владимир, здравствуй! Впечатляет! Молодец! Сейчас тоже закажу мужу <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a>), Хочет себе торс как у греческих богов, видите ли)))
 					</div>
 					<div class="vk-comment-date">
-						13 апреля 2017 04:16 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+						13 апреля 2017 04:16 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 					</div>
 					
 				</div>
@@ -164,7 +158,7 @@
 							<img style="width: 100%;" src="/assets/my/review-1.jpg">
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 07:10 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 07:10 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -179,7 +173,7 @@
 							Привет Вова! Заказала сразу две упаковки - отцу и мужу, теперь жду недождусь посылки. :)
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 09:23 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 09:23 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -194,7 +188,7 @@
 							Потрясающе Вов! Тож так хочу)) сейчас сделаю заказ
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 11:58 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 11:58 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -209,7 +203,7 @@
 							Владимир привет! Муж уже 3 месяца тренируется с этим миостимулятором. Класс вообще. Мышцы начали РАСТИ. Я сама в шоке блин!!!))) как так?!?!.
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 14:06 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 14:06 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -221,10 +215,10 @@
 							Lena Adorable
 						</div>
 						<div class="vk-comment-text">
-							В США тоже все пользуются <b><a href="http://name" target="_blank"  >EMS Trainer</a></b>. Если пользуются - видимо есть толк... , мой парень тоже носит, заказывал <a href="http://name" target="_blank"  >тут</a>.
+							В США тоже все пользуются <b><a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a></b>. Если пользуются - видимо есть толк... , мой парень тоже носит, заказывал <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >тут</a>.
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 17:21 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 17:21 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -239,7 +233,7 @@
 							Привет! Заказала мужу. У меня просто слов нет! Владимир, спасибо тебе! Мой муж стал еще шикарнее!!!
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 18:45 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 18:45 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -254,7 +248,7 @@
 							Пользуюсь уже почти полгода. Теперь всегда буду) я с тощего эктоморфного дохляка превратился во второго Шварценеггера! энергии стало намного больше. Прям прилив бодрости какойто! Наверное, от осознания своей крутости)))
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 20:52 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 20:52 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -269,7 +263,7 @@
 							Купил, понравилось! Я стал обрастать постепенно мышцами. Вован - спасиб тебе) к концу 3го месяца я стал похож на гору)) все девушки вслед оборачиваются!
 						</div>
 						<div class="vk-comment-date">
-							13 апреля 2017 23:18 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							13 апреля 2017 23:18 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -281,10 +275,10 @@
 							Георгий Тор
 						</div>
 						<div class="vk-comment-text">
-							Я тоже знаю  про этот <a href="http://name" target="_blank"  >EMS Trainer</a>, я его правда в Германии купил, 2 месяца назад. Работает. Советую.
+							Я тоже знаю  про этот <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a>, я его правда в Германии купил, 2 месяца назад. Работает. Советую.
 						</div>
 						<div class="vk-comment-date">
-							14 апреля 2017 00:36 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							14 апреля 2017 00:36 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -299,7 +293,7 @@
 							Моя жена на 7 небе от счастья. Говорит, мол что с тобой случилось? Ты стал молодеть чтоли обратно?!?! Вновь возвращаются мои идеальные формы )))))
 						</div>
 						<div class="vk-comment-date">
-							14 апреля 2017 04:46 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+							14 апреля 2017 04:46 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 						</div>
 						
 					</div>
@@ -311,12 +305,12 @@
 							Артур Румянцев
 						</div>
 						<div class="vk-comment-text">
-							Тоже пользуюсь EMS Trainer - работает. Заказывал с <a href="http://name" target="_blank"   style="cursor: pointer;" class="yelpay-target">этого сайта</a>, без предоплаты, пришло через 6 дней. Тож пожалуй выложу фотку )) 
+							Тоже пользуюсь EMS Trainer - работает. Заказывал с <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="cursor: pointer;" class="yelpay-target">этого сайта</a>, без предоплаты, пришло через 6 дней. Тож пожалуй выложу фотку )) 
 							<br>
 								<img style="width: 100%;" src="/assets/my/review-2.jpg">
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 08:15 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 08:15 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -331,7 +325,7 @@
 								Поздравьте и меня, тоже стал счастливым обладателем сей штуки!
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 09:49 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 09:49 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -346,7 +340,7 @@
 								Парни, надеюсь и вам настигнет такое же счастье, как и меня. Теперь все девки мои, и все благодаря моему накаченному телу! Я просто шокирован. Вованыч спасибо за статью!
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 10:13 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 10:13 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -361,7 +355,7 @@
 								Я тоже знаю про такой миотренажер. У меня муж всё носится с ним) советую.
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 11:58 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 11:58 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -373,10 +367,10 @@
 								Витя Еремин
 							</div>
 							<div class="vk-comment-text">
-								Даров, <a href="http://name" target="_blank"  >EMS Trainer</a> супер, а главное - просто и легко. Жду посылку, уже заказал.
+								Даров, <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a> супер, а главное - просто и легко. Жду посылку, уже заказал.
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 12:36 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 12:36 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -391,7 +385,7 @@
 								Клевая вещь, купил 2 месяца назад, пользуюсь, и мышцы заметно стали расти! Позже выложу фотки) спасибо Владимиру.
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 14:21 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 14:21 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -406,7 +400,7 @@
 								Привет. У меня брат тоже купил его, я естественно его наругал, что купил очередную рекламную хрень...но через 2 недели пришлось забирать свои слова обратно и покупать себе еще один)) помогает!
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 15:31 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 15:31 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -418,10 +412,10 @@
 								Мачо Крутой
 							</div>
 							<div class="vk-comment-text">
-								Это далеко не новость. Об этом <a href="http://name" target="_blank">миостимуляторе</a>  уже все знают. А кто не знает, те, видимо, и не стремятся к совершенному телу.  <b>EMS Trainer</b> реально работает. Советую.
+								Это далеко не новость. Об этом <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank">миостимуляторе</a>  уже все знают. А кто не знает, те, видимо, и не стремятся к совершенному телу.  <b>EMS Trainer</b> реально работает. Советую.
 							</div>
 							<div class="vk-comment-date">
-								14 апреля 2017 17:08 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+								14 апреля 2017 17:08 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 							</div>
 							
 						</div>
@@ -433,12 +427,12 @@
 								Владимир Левин
 							</div>
 							<div class="vk-comment-text">
-								Вов привет. <a href="http://name" target="_blank"  >EMS Trainer</a> работает вообще на ура!!! С меня пиво))
+								Вов привет. <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >EMS Trainer</a> работает вообще на ура!!! С меня пиво))
 								<br>
 									<img style="width: 100%;" src="/assets/my/review-3.jpg">
 								</div>
 								<div class="vk-comment-date">
-									14 апреля 2017 18:42 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+									14 апреля 2017 18:42 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 								</div>
 								
 							</div>
@@ -453,7 +447,7 @@
 									То что надо! Кстати, в каком-то журнале для бодибилдеров тож хвалили его
 								</div>
 								<div class="vk-comment-date">
-									14 апреля 2017 20:55 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+									14 апреля 2017 20:55 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 								</div>
 								
 							</div>
@@ -465,17 +459,17 @@
 									Стас Щедрин
 								</div>
 								<div class="vk-comment-text">
-									На западе давно все этими миостимуляторами пользуются. До нас поздно веяния доходят. <a href="http://name" target="_blank"  >вот сайт</a>, где заказывать)
+									На западе давно все этими миостимуляторами пользуются. До нас поздно веяния доходят. <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >вот сайт</a>, где заказывать)
 								</div>
 								<div class="vk-comment-date">
-									14 апреля 2017 23:19 | <a href="http://name" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
+									14 апреля 2017 23:19 | <a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   style="text-decoration: none;"><span class="vk-comment-answer yelpay-target">Ответить</span></a>
 								</div>
 								
 							</div>
 						</div>
 						<br>
 						<p style="text-align: center; font-size: 20px;">
-							<a href="http://name" target="_blank"   class="button" style="color: rgb(11, 113, 241);">Заказать EMS Trainer</a>
+							<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"   class="button" style="color: rgb(11, 113, 241);">Заказать EMS Trainer</a>
 						</p>
 						<br>
 					</div>
@@ -485,49 +479,49 @@
 								Лента постов
 							</h3>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Как я накачал тело за 1 месяц</a> <span style="float: right; color: rgb(72, 155, 31);">+145</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Как я накачал тело за 1 месяц</a> <span style="float: right; color: rgb(72, 155, 31);">+145</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">12.04.2017 - 15:19</span> <span class="sidebar-last-post-info-comments">194 комментария</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Оцените фото)</a> <span style="float: right; color: rgb(72, 155, 31);">+35</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Оцените фото)</a> <span style="float: right; color: rgb(72, 155, 31);">+35</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">10.04.2017 - 04:33</span> <span class="sidebar-last-post-info-comments">18 комментариев</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Мда уж. Аэрофлот удивляет...</a> <span style="float: right; color: rgb(72, 155, 31);">+57</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Мда уж. Аэрофлот удивляет...</a> <span style="float: right; color: rgb(72, 155, 31);">+57</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">08.04.2017 - 20:18</span> <span class="sidebar-last-post-info-comments">9 комментариев</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >В Тайланде нет дождя, наконец-то!</a> <span style="float: right; color: rgb(72, 155, 31);">+11</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >В Тайланде нет дождя, наконец-то!</a> <span style="float: right; color: rgb(72, 155, 31);">+11</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">05.04.2017 - 14:43</span> <span class="sidebar-last-post-info-comments">64 комментария</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Кто со мной на море?)</a> <span style="float: right; color: rgb(72, 155, 31);">+91</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Кто со мной на море?)</a> <span style="float: right; color: rgb(72, 155, 31);">+91</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">03.04.2017 - 11:51</span> <span class="sidebar-last-post-info-comments">33 комментария</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Жена хочет завести кота, что делать?</a> <span style="float: right; color: rgb(72, 155, 31);">+19</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Жена хочет завести кота, что делать?</a> <span style="float: right; color: rgb(72, 155, 31);">+19</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">01.04.2017 - 11:52</span> <span class="sidebar-last-post-info-comments">98 комментариев</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Всем привет. Только вернулся с ГОА</a> <span style="float: right; color: rgb(72, 155, 31);">+31</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Всем привет. Только вернулся с ГОА</a> <span style="float: right; color: rgb(72, 155, 31);">+31</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">30.03.2017 - 14:50</span> <span class="sidebar-last-post-info-comments">51 комментарий</span>
 							</div>
 							<div class="sidebar-last-post">
-								<a href="http://name" target="_blank"  >Как я выучил итальянский язык</a> <span style="float: right; color: rgb(72, 155, 31);">+73</span>
+								<a href="./best-gooods.ru/ems-trainer/index.html" target="_blank"  >Как я выучил итальянский язык</a> <span style="float: right; color: rgb(72, 155, 31);">+73</span>
 							</div>
 							<div class="sidebar-last-post-info">
 								<span class="sidebar-last-post-info-login">Владимир</span> <span class="sidebar-last-post-info-date ypdate">27.03.2017 - 20:52</span> <span class="sidebar-last-post-info-comments">17 комментариев</span>
